@@ -1,2 +1,6 @@
 # Homework-W01
-Build Unreal Engine and make an Android pack.
+## 作业
+1. 源码编译UE5，新建一个C++工程，进行简单场景编辑和工程设置；
+2. 编译并构建安装包，确保能够用来将游戏工程安装到手机正常运行（若无Andorid手机可构建桌面版本）。
+## 实现步骤
+1. 下载源码并编译，见building.png。但是由于构建时间太长，为避免可能遇到的问题，之后使用Epic Games Launcher里的UE 5.4版本。
